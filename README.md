@@ -1,6 +1,5 @@
 ## 💬 About me
-I'm a Vietnamese 🇻🇳, and a guy who love technology and electronic devices. I'm very nice but sometimes a bit toxic (especially with Cio4158, Dawser, UTTP)
-I live by HTML5, JavaScript and CSS :)
+I'm a Vietnamese 🇻🇳, and a guy who love technology and electronic devices. I'm very nice but sometimes a bit toxic (especially with Cio4158, Dawser, UTTP). As you know, HTML5 and Windows (Betas) are part of my life :)
 ## 🔖 Stats
 ![nhhizme's Stats](https://github-readme-stats.vercel.app/api?username=nhhizme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![nhhizme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nhhizme&theme=tokyonight&hide_border=true)
